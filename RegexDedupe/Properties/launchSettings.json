@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RegexDedupe": {
+      "commandName": "Project",
+      "commandLineArgs": "\"old cheese finds.bat.cheesefinds.try1.bat.deduped.bat\" \"extract-notfromcuts.bat\" test2.ini"
+    }
+  }
+}
